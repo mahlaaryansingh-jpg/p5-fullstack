@@ -1,0 +1,8 @@
+
+# Firebase configuration
+.env
+.env.*
+!.env.example
+
+# Backend secrets
+backend/.env
